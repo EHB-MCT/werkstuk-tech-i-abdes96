@@ -48,7 +48,7 @@ De servomotor die heen en weer gaat stelt de wind die  ook heen en weer gaat  di
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 Voor mijn interaction heb ik meerdere sensoren gebruikt.
 
- ik heb de afstandssensor gebruikt dat ik geprogrammeerd hebt met het blauw led lampje en de servomotor. hoe dichter  van de afstandssensor  met afstanden ( TOT 75cm) bob zich bevindt hoe meer energie van de eenhoorn gegeven word dus hoe meer wind dus grotere rotatie van de servo motor en hoe sneller het blauw rgb licht blinkt van de sterren . Mijn rol was om te tonen hoe de eenhoorn de energie geeft en hoe  de omgeving verandert door wind etc... 
+ ik heb de afstandssensor gebruikt dat ik geprogrammeerd hebt met het blauw led lampje en de servomotor. hoe dichter  van de afstandssensor  met afstanden ( TOT 75cm) bob zich bevindt hoe meer energie van de eenhoorn gegeven word dus hoe meer wind dus kleiner rotatie van de servo motor en hoe sneller het blauw rgb licht blinkt van de sterren . Mijn rol was om te tonen hoe de eenhoorn de energie geeft en hoe  de omgeving verandert door wind etc... 
 
 
 
